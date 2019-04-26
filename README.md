@@ -9,6 +9,8 @@ This git repository is a test for using git in teamwork.
 > - 2 élément
 --- 
 
+### Et voici les images du readMe
+
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/5/55/Logo-ESGI.jpg)
 
 ---
